@@ -1,0 +1,9 @@
+    // Collaboratori predefiniti con le loro posizioni
+    const collaboratori = [
+      { username: "filippo", name: "Filippo", email: "filippo@digiflo.it", position: "Founder & CMO" },
+      { username: "francesco", name: "Francesco", email: "francesco@digiflo.it", position: "Founder & Art Director" },
+      { username: "lorenzo", name: "Lorenzo", email: "lorenzo@digiflo.it", position: "Grafic Designer & Video Marker" },
+      { username: "alice", name: "Alice", email: "alice@digiflo.it", position: "Content Marketing & SMM" },
+      { username: "ginevra", name: "Ginevra", email: "ginevra@digiflo.it", position: "Fotografa" },
+      { username: "andrea", name: "Andrea", email: "andrea@digiflo.it", position: "Content Creator" },
+    ];
